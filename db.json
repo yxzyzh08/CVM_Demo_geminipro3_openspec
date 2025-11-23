@@ -1,0 +1,23 @@
+{
+  "kpis": [
+    {
+      "id": "32b6235d-8b1d-4a5a-8bc5-42bd6734f1c7",
+      "name": "111",
+      "indicatorType": "ARPU",
+      "targetValue": 11,
+      "deadline": "2025-11-29",
+      "description": "1212",
+      "currentValue": 45,
+      "unit": "$",
+      "status": "Achieved",
+      "history": [
+        {
+          "timestamp": 1763861565752,
+          "value": 45
+        }
+      ],
+      "createdAt": 1763861565752,
+      "updatedAt": 1763861565752
+    }
+  ]
+}

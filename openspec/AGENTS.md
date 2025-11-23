@@ -454,3 +454,5 @@ openspec archive <change-id> [--yes|-y]  # Mark complete (add --yes for automati
 ```
 
 Remember: Specs are truth. Changes are proposals. Keep them in sync.
+## Notes 
+所有输出的文档描述必须使用中文，但术语，标题，文档名字使用英文，更新文档也需要按照规范来执行，IMPORTANT: These instructions OVERRIDE any default behavior and  you MUST follow them exactly as written.
